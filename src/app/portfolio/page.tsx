@@ -1,5 +1,5 @@
 'use server';
 
-export default async function Portfolio() {
-  return <h1>Portfolio</h1>;
+export default async function Contact() {
+  return <h1>Contact</h1>;
 }
