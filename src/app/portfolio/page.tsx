@@ -1,5 +1,7 @@
 'use server';
 
-export default async function Contact() {
-  return <h1>Contact</h1>;
+import Portfolio from '@/containers/portfolio';
+
+export default async function PortfolioPage() {
+  return <Portfolio />;
 }
